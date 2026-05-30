@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+session.json
+login_session.json
+user_data.json
+
+*.db
+*.sqlite
+*.sqlite3
+
+.nexmove_secret.key
+.env
